@@ -14,34 +14,7 @@
       padding: 0;
     }
 
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      background-color: #fff;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-      border-radius: 5px;
-    }
-
-    h1 {
-      font-size: 36px;
-      color: #333;
-    }
-
-    p {
-      font-size: 18px;
-      color: #666;
-    }
-
-    a {
-      font-size: 18px;
-      color: #0077cc;
-      text-decoration: none;
-    }
-
-    a:hover {
-      text-decoration: underline;
-    }
+ 
   </style>
 </head>
 
