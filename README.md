@@ -5,17 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Simon Game Readme</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      background-color: #f2f2f2;
-      margin: 0;
-      padding: 0;
-    }
 
- 
-  </style>
 </head>
 
 <body>
